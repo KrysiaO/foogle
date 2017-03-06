@@ -6,4 +6,18 @@
 //  Copyright © 2017 Krysia. All rights reserved.
 //
 
-import Foundation
+import UIKit
+import AVFoundation
+
+class ViewController: UIViewController, AVCaptureMetadataOutputObjectsDelegate{
+
+    var captureSession:AVAudioSession?
+
+
+
+
+
+
+
+}
+
